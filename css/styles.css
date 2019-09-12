@@ -1,0 +1,24 @@
+.timer {
+  width: 500px;
+  margin: 0 auto;
+  margin-top: 10px;
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid gray;
+  border-radius: 5px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.25), 0 5px 15px rgba(0, 0, 0, 0.22);
+}
+
+.field {
+  text-align: center;
+  width: 120px;
+}
+
+.value {
+  font-size: 30px;
+  display: block;
+}
+
+.label {
+  color: gray;
+}
